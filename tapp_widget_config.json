@@ -24,9 +24,9 @@
                     "spinEasing": "easeInOutCubic"
                 },
                 "assets": {
-                    "bg": "bg.jpeg",
-                    "wheelFrame": "wheel-frame.png",
-                    "wheelSpin": "wheel-spin.png",
+                    "bg": "bg.png",
+                    "wheelFrame": "wheelFrame.png",
+                    "wheelSpin": "wheelSpin.png",
                     "wheel": "wheel.png"
                 }
             }
