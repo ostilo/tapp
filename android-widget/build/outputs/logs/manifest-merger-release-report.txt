@@ -1,0 +1,18 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ayodejiolalekan/Personal/tapp/android-widget/src/main/AndroidManifest.xml:2:1-6:12
+INJECTED from /Users/ayodejiolalekan/Personal/tapp/android-widget/src/main/AndroidManifest.xml:2:1-6:12
+	package
+		INJECTED from /Users/ayodejiolalekan/Personal/tapp/android-widget/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ayodejiolalekan/Personal/tapp/android-widget/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/ayodejiolalekan/Personal/tapp/android-widget/src/main/AndroidManifest.xml:4:5-20
+uses-sdk
+INJECTED from /Users/ayodejiolalekan/Personal/tapp/android-widget/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ayodejiolalekan/Personal/tapp/android-widget/src/main/AndroidManifest.xml
+INJECTED from /Users/ayodejiolalekan/Personal/tapp/android-widget/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/ayodejiolalekan/Personal/tapp/android-widget/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ayodejiolalekan/Personal/tapp/android-widget/src/main/AndroidManifest.xml

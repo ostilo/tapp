@@ -1,0 +1,27 @@
+{
+  "name": "spin-wheel-demo-app",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "npx react-native start",
+    "android": "npx react-native run-android",
+    "ios": "npx react-native run-ios",
+    "logs": "npx react-native log-android",
+    "postinstall": "cd node_modules/react-native-spin-wheel && npm install && npm run build"
+  },
+  "dependencies": {
+    "react": "18.3.1",
+    "react-native": "0.76.0",
+    "react-native-spin-wheel": "file:../react-native-spin-wheel"
+  },
+  "devDependencies": {
+    "@react-native-community/cli": "15.0.0",
+    "@react-native/metro-config": "0.76.0",
+    "@types/react": "^18.3.12",
+    "@types/react-native": "^0.73.0",
+    "typescript": "~5.6.0"
+  },
+  "overrides": {
+    "react-native": "0.76.0"
+  }
+}

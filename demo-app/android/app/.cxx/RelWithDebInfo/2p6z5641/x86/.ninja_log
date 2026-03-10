@@ -1,0 +1,13 @@
+# ninja log v5
+0	32	0	/Users/ayodejiolalekan/Personal/tapp/demo-app/android/app/.cxx/RelWithDebInfo/2p6z5641/x86/CMakeFiles/cmake.verify_globs	dc3e79d439a2159d
+3	2379	1773141508587769215	RCTSpinWheelSpec_autolinked_build/CMakeFiles/react_codegen_RCTSpinWheelSpec.dir/react/renderer/components/RCTSpinWheelSpec/States.cpp.o	370456c084cc6432
+1	2597	1773141508809915703	RCTSpinWheelSpec_autolinked_build/CMakeFiles/react_codegen_RCTSpinWheelSpec.dir/react/renderer/components/RCTSpinWheelSpec/EventEmitters.cpp.o	9137d43ce9b9304c
+2	2623	1773141508834903224	RCTSpinWheelSpec_autolinked_build/CMakeFiles/react_codegen_RCTSpinWheelSpec.dir/react/renderer/components/RCTSpinWheelSpec/RCTSpinWheelSpecJSI-generated.cpp.o	4b012e384fe6120c
+3	2686	1773141508896615570	RCTSpinWheelSpec_autolinked_build/CMakeFiles/react_codegen_RCTSpinWheelSpec.dir/react/renderer/components/RCTSpinWheelSpec/ShadowNodes.cpp.o	9f85c804fc0d5560
+1	2775	1773141508987595385	RCTSpinWheelSpec_autolinked_build/CMakeFiles/react_codegen_RCTSpinWheelSpec.dir/RCTSpinWheelSpec-generated.cpp.o	3f3da82b30810f7
+1	3034	1773141509239544841	CMakeFiles/appmodules.dir/OnLoad.cpp.o	50ff99bce8264bda
+1	3240	1773141509435786019	RCTSpinWheelSpec_autolinked_build/CMakeFiles/react_codegen_RCTSpinWheelSpec.dir/react/renderer/components/RCTSpinWheelSpec/Props.cpp.o	7bfcba1659288d2f
+1	3418	1773141509627622291	RCTSpinWheelSpec_autolinked_build/CMakeFiles/react_codegen_RCTSpinWheelSpec.dir/react/renderer/components/RCTSpinWheelSpec/ComponentDescriptors.cpp.o	b750c61d5b0b1a19
+1	3820	1773141510029729289	CMakeFiles/appmodules.dir/Users/ayodejiolalekan/Personal/tapp/demo-app/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	7438b9074b53bc52
+3820	3886	1773141510100183156	/Users/ayodejiolalekan/Personal/tapp/demo-app/android/app/build/intermediates/cxx/RelWithDebInfo/2p6z5641/obj/x86/libappmodules.so	91a7c3fedeb1d702
+0	13	0	/Users/ayodejiolalekan/Personal/tapp/demo-app/android/app/.cxx/RelWithDebInfo/2p6z5641/x86/CMakeFiles/cmake.verify_globs	dc3e79d439a2159d

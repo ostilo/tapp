@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="button">#ea147f</color>
+    <color name="widget_spin_title_color">@android:color/black</color>
+    <color name="widget_spin_subtitle_color">#E0FFFFFF</color>
+</resources>
+

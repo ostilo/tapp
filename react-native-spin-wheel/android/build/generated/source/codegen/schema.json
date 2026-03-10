@@ -1,0 +1,50 @@
+{
+  "modules": {
+    "RCTSpinWheel": {
+      "type": "Component",
+      "components": {
+        "RCTSpinWheel": {
+          "extendsProps": [
+            {
+              "type": "ReactNativeBuiltInType",
+              "knownTypeName": "ReactNativeCoreViewProps"
+            }
+          ],
+          "events": [
+            {
+              "name": "onSpinEnd",
+              "optional": true,
+              "bubblingType": "bubble",
+              "typeAnnotation": {
+                "type": "EventTypeAnnotation",
+                "argument": {
+                  "type": "ObjectTypeAnnotation",
+                  "properties": [
+                    {
+                      "name": "angle",
+                      "optional": false,
+                      "typeAnnotation": {
+                        "type": "DoubleTypeAnnotation"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          ],
+          "props": [
+            {
+              "name": "configUrl",
+              "optional": false,
+              "typeAnnotation": {
+                "type": "StringTypeAnnotation",
+                "default": null
+              }
+            }
+          ],
+          "commands": []
+        }
+      }
+    }
+  }
+}

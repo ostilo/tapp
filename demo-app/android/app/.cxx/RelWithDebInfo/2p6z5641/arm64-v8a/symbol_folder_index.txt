@@ -1,0 +1,1 @@
+/Users/ayodejiolalekan/Personal/tapp/demo-app/android/app/build/intermediates/cxx/RelWithDebInfo/2p6z5641/obj/arm64-v8a

@@ -1,0 +1,25 @@
+# ninja log v5
+0	10	0	/Users/ayodejiolalekan/Personal/tapp/demo-app/android/app/.cxx/Debug/4a5984q3/x86/CMakeFiles/cmake.verify_globs	4432237882e4c48f
+16	56	1773142601639392640	build.ninja	451bfb4d495771b
+0	7	0	clean	d90a57efab3a8c36
+2137	2214	1773137011744811313	/Users/ayodejiolalekan/Personal/tapp/demo-app/android/app/build/intermediates/cxx/Debug/4a5984q3/obj/x86/libappmodules.so	6c469a525d9223d1
+4	1143	1773137010671140668	RCTSpinWheelSpec_autolinked_build/CMakeFiles/react_codegen_RCTSpinWheelSpec.dir/react/renderer/components/RCTSpinWheelSpec/States.cpp.o	97005d05b8bad99e
+4	1821	1773137011351135443	CMakeFiles/appmodules.dir/OnLoad.cpp.o	86b2b9544f9b4349
+4	2137	1773137011661368545	CMakeFiles/appmodules.dir/Users/ayodejiolalekan/Personal/tapp/demo-app/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	7e7df9edf6faf00f
+4	1363	1773137010891494565	RCTSpinWheelSpec_autolinked_build/CMakeFiles/react_codegen_RCTSpinWheelSpec.dir/react/renderer/components/RCTSpinWheelSpec/EventEmitters.cpp.o	387a6a2d38abd600
+4	1525	1773137011057401558	RCTSpinWheelSpec_autolinked_build/CMakeFiles/react_codegen_RCTSpinWheelSpec.dir/react/renderer/components/RCTSpinWheelSpec/ShadowNodes.cpp.o	47c6f03da313f02c
+4	1434	1773137010966004623	RCTSpinWheelSpec_autolinked_build/CMakeFiles/react_codegen_RCTSpinWheelSpec.dir/react/renderer/components/RCTSpinWheelSpec/RCTSpinWheelSpecJSI-generated.cpp.o	5fcd186050361298
+4	1516	1773137011048387560	RCTSpinWheelSpec_autolinked_build/CMakeFiles/react_codegen_RCTSpinWheelSpec.dir/RCTSpinWheelSpec-generated.cpp.o	7e93fd5f0cb41a6c
+3	1917	1773137011442498923	RCTSpinWheelSpec_autolinked_build/CMakeFiles/react_codegen_RCTSpinWheelSpec.dir/react/renderer/components/RCTSpinWheelSpec/ComponentDescriptors.cpp.o	8deafff2db1ac984
+4	1859	1773137011388425057	RCTSpinWheelSpec_autolinked_build/CMakeFiles/react_codegen_RCTSpinWheelSpec.dir/react/renderer/components/RCTSpinWheelSpec/Props.cpp.o	bfcb847b86b23253
+0	10	0	/Users/ayodejiolalekan/Personal/tapp/demo-app/android/app/.cxx/Debug/4a5984q3/x86/CMakeFiles/cmake.verify_globs	4432237882e4c48f
+6	1312	1773142602979485650	RCTSpinWheelSpec_autolinked_build/CMakeFiles/react_codegen_RCTSpinWheelSpec.dir/react/renderer/components/RCTSpinWheelSpec/States.cpp.o	c2cbd280b509ea11
+5	1488	1773142603158287413	RCTSpinWheelSpec_autolinked_build/CMakeFiles/react_codegen_RCTSpinWheelSpec.dir/react/renderer/components/RCTSpinWheelSpec/EventEmitters.cpp.o	42bcfe591e112c2c
+6	1541	1773142603222020995	RCTSpinWheelSpec_autolinked_build/CMakeFiles/react_codegen_RCTSpinWheelSpec.dir/react/renderer/components/RCTSpinWheelSpec/RCTSpinWheelSpecJSI-generated.cpp.o	16a6f78e2a6df5e1
+5	1601	1773142603281399041	RCTSpinWheelSpec_autolinked_build/CMakeFiles/react_codegen_RCTSpinWheelSpec.dir/RCTSpinWheelSpec-generated.cpp.o	99de2e7890a6357d
+6	1647	1773142603328148354	RCTSpinWheelSpec_autolinked_build/CMakeFiles/react_codegen_RCTSpinWheelSpec.dir/react/renderer/components/RCTSpinWheelSpec/ShadowNodes.cpp.o	9678bb63ba3d273b
+5	1970	1773142603647281096	CMakeFiles/appmodules.dir/OnLoad.cpp.o	d02385af8f0553e
+5	2007	1773142603685104421	RCTSpinWheelSpec_autolinked_build/CMakeFiles/react_codegen_RCTSpinWheelSpec.dir/react/renderer/components/RCTSpinWheelSpec/Props.cpp.o	3c02514d5fa07634
+5	2066	1773142603743642176	RCTSpinWheelSpec_autolinked_build/CMakeFiles/react_codegen_RCTSpinWheelSpec.dir/react/renderer/components/RCTSpinWheelSpec/ComponentDescriptors.cpp.o	1c429bdecd5e59cc
+4	2234	1773142603910369330	CMakeFiles/appmodules.dir/Users/ayodejiolalekan/Personal/tapp/demo-app/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	1ccf0203926d225d
+2234	2310	1773142603989376641	/Users/ayodejiolalekan/Personal/tapp/demo-app/android/app/build/intermediates/cxx/Debug/4a5984q3/obj/x86/libappmodules.so	a91c065c56fc8c8a

@@ -1,0 +1,37 @@
+{
+  "buildFiles": [
+    "/Users/ayodejiolalekan/Personal/tapp/demo-app/node_modules/react-native-spin-wheel/android/build/generated/source/codegen/jni/CMakeLists.txt",
+    "/Users/ayodejiolalekan/Personal/tapp/demo-app/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/ayodejiolalekan/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/ayodejiolalekan/Personal/tapp/demo-app/android/app/.cxx/RelWithDebInfo/2p6z5641/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/ayodejiolalekan/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/ayodejiolalekan/Personal/tapp/demo-app/android/app/.cxx/RelWithDebInfo/2p6z5641/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "react_codegen_RCTSpinWheelSpec::@73a80a466088774821ef": {
+      "artifactName": "react_codegen_RCTSpinWheelSpec",
+      "abi": "x86_64",
+      "runtimeFiles": []
+    },
+    "appmodules::@6890427a1f51a3e7e1df": {
+      "artifactName": "appmodules",
+      "abi": "x86_64",
+      "output": "/Users/ayodejiolalekan/Personal/tapp/demo-app/android/app/build/intermediates/cxx/RelWithDebInfo/2p6z5641/obj/x86_64/libappmodules.so",
+      "runtimeFiles": [
+        "/Users/ayodejiolalekan/.gradle/caches/8.10.2/transforms/45b9ce6cd480923371067ff4bc5f1a72/transformed/fbjni-0.6.0/prefab/modules/fbjni/libs/android.x86_64/libfbjni.so",
+        "/Users/ayodejiolalekan/.gradle/caches/8.10.2/transforms/58950e2535b3329cfe16753c5dd7766a/transformed/react-android-0.76.0-release/prefab/modules/jsi/libs/android.x86_64/libjsi.so",
+        "/Users/ayodejiolalekan/.gradle/caches/8.10.2/transforms/58950e2535b3329cfe16753c5dd7766a/transformed/react-android-0.76.0-release/prefab/modules/reactnative/libs/android.x86_64/libreactnative.so"
+      ]
+    }
+  }
+}

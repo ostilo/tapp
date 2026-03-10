@@ -1,0 +1,13 @@
+# ninja log v5
+0	16	0	/Users/ayodejiolalekan/Personal/tapp/demo-app/android/app/.cxx/RelWithDebInfo/2p6z5641/arm64-v8a/CMakeFiles/cmake.verify_globs	9c0b7b4873f0f82
+2	1540	1773141499580883860	RCTSpinWheelSpec_autolinked_build/CMakeFiles/react_codegen_RCTSpinWheelSpec.dir/react/renderer/components/RCTSpinWheelSpec/States.cpp.o	b635ded836830249
+1	1656	1773141499708851250	RCTSpinWheelSpec_autolinked_build/CMakeFiles/react_codegen_RCTSpinWheelSpec.dir/react/renderer/components/RCTSpinWheelSpec/EventEmitters.cpp.o	75bb422dd695728a
+1	1705	1773141499758377168	RCTSpinWheelSpec_autolinked_build/CMakeFiles/react_codegen_RCTSpinWheelSpec.dir/react/renderer/components/RCTSpinWheelSpec/RCTSpinWheelSpecJSI-generated.cpp.o	590b12690cd15830
+2	1804	1773141499856193924	RCTSpinWheelSpec_autolinked_build/CMakeFiles/react_codegen_RCTSpinWheelSpec.dir/react/renderer/components/RCTSpinWheelSpec/ShadowNodes.cpp.o	96823d989a5f0998
+0	1852	1773141499906043883	RCTSpinWheelSpec_autolinked_build/CMakeFiles/react_codegen_RCTSpinWheelSpec.dir/RCTSpinWheelSpec-generated.cpp.o	ce0cd3b1e2410b91
+0	2111	1773141500164152907	CMakeFiles/appmodules.dir/OnLoad.cpp.o	a616ba70dc1abda2
+1	2265	1773141500315507405	RCTSpinWheelSpec_autolinked_build/CMakeFiles/react_codegen_RCTSpinWheelSpec.dir/react/renderer/components/RCTSpinWheelSpec/Props.cpp.o	49cb2a51af9d6a40
+1	2385	1773141500437617059	RCTSpinWheelSpec_autolinked_build/CMakeFiles/react_codegen_RCTSpinWheelSpec.dir/react/renderer/components/RCTSpinWheelSpec/ComponentDescriptors.cpp.o	4c837fc925012f6c
+0	2660	1773141500710348838	CMakeFiles/appmodules.dir/Users/ayodejiolalekan/Personal/tapp/demo-app/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	82e3ef34434b021f
+2660	2717	1773141500771825227	/Users/ayodejiolalekan/Personal/tapp/demo-app/android/app/build/intermediates/cxx/RelWithDebInfo/2p6z5641/obj/arm64-v8a/libappmodules.so	47b9e1567f12c5a2
+2	75	0	/Users/ayodejiolalekan/Personal/tapp/demo-app/android/app/.cxx/RelWithDebInfo/2p6z5641/arm64-v8a/CMakeFiles/cmake.verify_globs	9c0b7b4873f0f82

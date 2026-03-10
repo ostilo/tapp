@@ -1,0 +1,48 @@
+{
+  "buildFiles": [
+    "/Users/ayodejiolalekan/Personal/tapp/demo-app/node_modules/react-native-spin-wheel/android/build/generated/source/codegen/jni/CMakeLists.txt",
+    "/Users/ayodejiolalekan/Personal/tapp/demo-app/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/ayodejiolalekan/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/ayodejiolalekan/Personal/tapp/demo-app/android/app/.cxx/RelWithDebInfo/2p6z5641/armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/ayodejiolalekan/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/ayodejiolalekan/Personal/tapp/demo-app/android/app/.cxx/RelWithDebInfo/2p6z5641/armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "appmodules::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "armeabi-v7a",
+      "artifactName": "appmodules",
+      "output": "/Users/ayodejiolalekan/Personal/tapp/demo-app/android/app/build/intermediates/cxx/RelWithDebInfo/2p6z5641/obj/armeabi-v7a/libappmodules.so",
+      "runtimeFiles": [
+        "/Users/ayodejiolalekan/.gradle/caches/8.10.2/transforms/45b9ce6cd480923371067ff4bc5f1a72/transformed/fbjni-0.6.0/prefab/modules/fbjni/libs/android.armeabi-v7a/libfbjni.so",
+        "/Users/ayodejiolalekan/.gradle/caches/8.10.2/transforms/58950e2535b3329cfe16753c5dd7766a/transformed/react-android-0.76.0-release/prefab/modules/jsi/libs/android.armeabi-v7a/libjsi.so",
+        "/Users/ayodejiolalekan/.gradle/caches/8.10.2/transforms/58950e2535b3329cfe16753c5dd7766a/transformed/react-android-0.76.0-release/prefab/modules/reactnative/libs/android.armeabi-v7a/libreactnative.so"
+      ]
+    },
+    "react_codegen_RCTSpinWheelSpec::@73a80a466088774821ef": {
+      "toolchain": "toolchain",
+      "abi": "armeabi-v7a",
+      "artifactName": "react_codegen_RCTSpinWheelSpec"
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/Users/ayodejiolalekan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/Users/ayodejiolalekan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

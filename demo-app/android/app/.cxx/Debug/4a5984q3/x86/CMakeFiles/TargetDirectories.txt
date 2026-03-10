@@ -1,0 +1,6 @@
+/Users/ayodejiolalekan/Personal/tapp/demo-app/android/app/.cxx/Debug/4a5984q3/x86/CMakeFiles/appmodules.dir
+/Users/ayodejiolalekan/Personal/tapp/demo-app/android/app/.cxx/Debug/4a5984q3/x86/CMakeFiles/edit_cache.dir
+/Users/ayodejiolalekan/Personal/tapp/demo-app/android/app/.cxx/Debug/4a5984q3/x86/CMakeFiles/rebuild_cache.dir
+/Users/ayodejiolalekan/Personal/tapp/demo-app/android/app/.cxx/Debug/4a5984q3/x86/RCTSpinWheelSpec_autolinked_build/CMakeFiles/react_codegen_RCTSpinWheelSpec.dir
+/Users/ayodejiolalekan/Personal/tapp/demo-app/android/app/.cxx/Debug/4a5984q3/x86/RCTSpinWheelSpec_autolinked_build/CMakeFiles/edit_cache.dir
+/Users/ayodejiolalekan/Personal/tapp/demo-app/android/app/.cxx/Debug/4a5984q3/x86/RCTSpinWheelSpec_autolinked_build/CMakeFiles/rebuild_cache.dir

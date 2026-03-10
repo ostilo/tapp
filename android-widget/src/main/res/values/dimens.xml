@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="widget_spin_padding">12dp</dimen>
+    <dimen name="widget_spin_icon_size">80dp</dimen>
+    <dimen name="widget_spin_title_margin_top">8dp</dimen>
+    <dimen name="widget_spin_subtitle_margin_top">8dp</dimen>
+    <dimen name="widget_spin_title_text_size">20sp</dimen>
+    <dimen name="widget_spin_subtitle_text_size">14sp</dimen>
+    <dimen name="widget_spin_button_padding_horizontal">16dp</dimen>
+    <dimen name="widget_spin_button_padding_vertical">6dp</dimen>
+    <dimen name="widget_spin_margin_horizontal">12dp</dimen>
+</resources>
+

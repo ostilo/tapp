@@ -1,0 +1,16 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ayodejiolalekan/Personal/tapp/demo-app/node_modules/react-native-spin-wheel/android/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest12668257154272236953.xml:2:13-83
+INJECTED from /Users/ayodejiolalekan/Personal/tapp/demo-app/node_modules/react-native-spin-wheel/android/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest12668257154272236953.xml:2:13-83
+	package
+		INJECTED from /Users/ayodejiolalekan/Personal/tapp/demo-app/node_modules/react-native-spin-wheel/android/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest12668257154272236953.xml
+	xmlns:android
+		ADDED from /Users/ayodejiolalekan/Personal/tapp/demo-app/node_modules/react-native-spin-wheel/android/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest12668257154272236953.xml:2:23-81
+uses-sdk
+INJECTED from /Users/ayodejiolalekan/Personal/tapp/demo-app/node_modules/react-native-spin-wheel/android/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest12668257154272236953.xml reason: use-sdk injection requested
+INJECTED from /Users/ayodejiolalekan/Personal/tapp/demo-app/node_modules/react-native-spin-wheel/android/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest12668257154272236953.xml
+INJECTED from /Users/ayodejiolalekan/Personal/tapp/demo-app/node_modules/react-native-spin-wheel/android/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest12668257154272236953.xml
+	android:targetSdkVersion
+		INJECTED from /Users/ayodejiolalekan/Personal/tapp/demo-app/node_modules/react-native-spin-wheel/android/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest12668257154272236953.xml
+	android:minSdkVersion
+		INJECTED from /Users/ayodejiolalekan/Personal/tapp/demo-app/node_modules/react-native-spin-wheel/android/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest12668257154272236953.xml

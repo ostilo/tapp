@@ -1,0 +1,2 @@
+/Users/ayodejiolalekan/Personal/tapp/demo-app/node_modules/react-native-spin-wheel/android/build/generated/source/codegen/jni/CMakeLists.txt
+/Users/ayodejiolalekan/Personal/tapp/demo-app/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt

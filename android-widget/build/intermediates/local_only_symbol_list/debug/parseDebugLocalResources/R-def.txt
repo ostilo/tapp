@@ -1,0 +1,25 @@
+R_DEF: Internal format may change without notice
+local
+color button
+color widget_spin_subtitle_color
+color widget_spin_title_color
+dimen widget_spin_button_padding_horizontal
+dimen widget_spin_button_padding_vertical
+dimen widget_spin_icon_size
+dimen widget_spin_margin_horizontal
+dimen widget_spin_padding
+dimen widget_spin_subtitle_margin_top
+dimen widget_spin_subtitle_text_size
+dimen widget_spin_title_margin_top
+dimen widget_spin_title_text_size
+drawable ic_launcher
+drawable widget_spin_button_bg
+drawable widget_spin_wheel_bg
+id widget_icon
+id widget_root
+id widget_subtitle
+id widget_title
+layout widget_spin_wheel
+string widget_spin_subtitle
+string widget_spin_title
+xml spin_wheel_widget_info

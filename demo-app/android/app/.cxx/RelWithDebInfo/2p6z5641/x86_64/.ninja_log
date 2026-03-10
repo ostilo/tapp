@@ -1,0 +1,13 @@
+# ninja log v5
+0	12	0	/Users/ayodejiolalekan/Personal/tapp/demo-app/android/app/.cxx/RelWithDebInfo/2p6z5641/x86_64/CMakeFiles/cmake.verify_globs	479874c10918a6e9
+2	1330	1773141513041354162	RCTSpinWheelSpec_autolinked_build/CMakeFiles/react_codegen_RCTSpinWheelSpec.dir/react/renderer/components/RCTSpinWheelSpec/States.cpp.o	df79e1dec89ee739
+1	1478	1773141513191816454	RCTSpinWheelSpec_autolinked_build/CMakeFiles/react_codegen_RCTSpinWheelSpec.dir/react/renderer/components/RCTSpinWheelSpec/EventEmitters.cpp.o	ae73f9721337b752
+2	1487	1773141513201586346	RCTSpinWheelSpec_autolinked_build/CMakeFiles/react_codegen_RCTSpinWheelSpec.dir/react/renderer/components/RCTSpinWheelSpec/RCTSpinWheelSpecJSI-generated.cpp.o	266dd471b0bbc706
+1	1645	1773141513359461120	RCTSpinWheelSpec_autolinked_build/CMakeFiles/react_codegen_RCTSpinWheelSpec.dir/RCTSpinWheelSpec-generated.cpp.o	6674b389d49966c3
+2	1656	1773141513371076924	RCTSpinWheelSpec_autolinked_build/CMakeFiles/react_codegen_RCTSpinWheelSpec.dir/react/renderer/components/RCTSpinWheelSpec/ShadowNodes.cpp.o	4ca577578c22d3d2
+1	1930	1773141513644132535	CMakeFiles/appmodules.dir/OnLoad.cpp.o	215c1f092daf91df
+2	2035	1773141513749208107	RCTSpinWheelSpec_autolinked_build/CMakeFiles/react_codegen_RCTSpinWheelSpec.dir/react/renderer/components/RCTSpinWheelSpec/Props.cpp.o	d747b75b8c65974a
+1	2205	1773141513918024562	RCTSpinWheelSpec_autolinked_build/CMakeFiles/react_codegen_RCTSpinWheelSpec.dir/react/renderer/components/RCTSpinWheelSpec/ComponentDescriptors.cpp.o	aed936c9328c1328
+1	2433	1773141514146162327	CMakeFiles/appmodules.dir/Users/ayodejiolalekan/Personal/tapp/demo-app/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	ad9e516225b01547
+2433	2489	1773141514204665556	/Users/ayodejiolalekan/Personal/tapp/demo-app/android/app/build/intermediates/cxx/RelWithDebInfo/2p6z5641/obj/x86_64/libappmodules.so	c8d0e5b1c0d0619e
+0	11	0	/Users/ayodejiolalekan/Personal/tapp/demo-app/android/app/.cxx/RelWithDebInfo/2p6z5641/x86_64/CMakeFiles/cmake.verify_globs	479874c10918a6e9
