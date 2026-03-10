@@ -11,6 +11,7 @@ dimen widget_spin_subtitle_margin_top
 dimen widget_spin_subtitle_text_size
 dimen widget_spin_title_margin_top
 dimen widget_spin_title_text_size
+drawable ic_launcher
 drawable widget_spin_button_bg
 drawable widget_spin_wheel_bg
 id widget_icon

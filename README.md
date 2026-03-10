@@ -17,10 +17,14 @@ Build a reusable **spin wheel UI** that:
 
 There is also:
 
+- **Demo APK** (recommended for reviewers): [`docs/demo.apk`](./docs/demo.apk)  
+  - Built as a **release, ABI‑specific, shrunk** APK (Hermes + ProGuard + resource shrinking + ABI splits).  
+  - Install with `adb install docs/demo.apk` or copy to a device and open it.
 - Screenshots: [`screenshots/frame1.png`](./screenshots/frame1.png),
   [`screenshots/frame2.png`](./screenshots/frame2.png)
 
- The app will load the wheel config (requires network on first run; then works offline from cache). To build from source instead, see [§4](#4-how-to-build-and-run) and [`BUILD_AND_PACK.md`](./BUILD_AND_PACK.md).
+The app will load the wheel config (requires network on first run; then works offline from cache).  
+To build from source instead, see [§4](#4-how-to-build-and-run) and [`BUILD_AND_PACK.md`](./BUILD_AND_PACK.md).
 
 ---
 
@@ -67,7 +71,6 @@ There is also:
 - Minimal Android homescreen widget:
   - Simple gradient card with icon + text.
   - Tapping it launches the React Native `MainActivity`.
-
 ---
 
 The widget provider implementation lives in `android-widget` as
@@ -86,7 +89,7 @@ a manifest `<receiver>` pointing at that class.
           android:name="android.appwidget.provider"
           android:resource="@xml/spin_wheel_widget_info" />
       </receiver>
-      ```
+  ```
 
 ## 3. Repo layout
 

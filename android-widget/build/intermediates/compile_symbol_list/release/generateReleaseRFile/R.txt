@@ -10,6 +10,7 @@ int dimen widget_spin_subtitle_margin_top 0x0
 int dimen widget_spin_subtitle_text_size 0x0
 int dimen widget_spin_title_margin_top 0x0
 int dimen widget_spin_title_text_size 0x0
+int drawable ic_launcher 0x0
 int drawable widget_spin_button_bg 0x0
 int drawable widget_spin_wheel_bg 0x0
 int id widget_icon 0x0

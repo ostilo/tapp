@@ -1,9 +1,9 @@
 <libraries>
   <library
       name=":@@:android-widget::release"
-      jars="/Users/ayodejiolalekan/.gradle/caches/8.10.2/transforms/b605db09eb33c47db5f6d65c2131fcbd/transformed/out/jars/classes.jar:/Users/ayodejiolalekan/.gradle/caches/8.10.2/transforms/b605db09eb33c47db5f6d65c2131fcbd/transformed/out/jars/libs/R.jar"
+      jars="/Users/ayodejiolalekan/.gradle/caches/8.10.2/transforms/62c960497cb38e4c0f13683634b97a03/transformed/out/jars/classes.jar:/Users/ayodejiolalekan/.gradle/caches/8.10.2/transforms/62c960497cb38e4c0f13683634b97a03/transformed/out/jars/libs/R.jar"
       resolved="SpinWheelDemoApp:android-widget:unspecified"
-      folder="/Users/ayodejiolalekan/.gradle/caches/8.10.2/transforms/b605db09eb33c47db5f6d65c2131fcbd/transformed/out"
+      folder="/Users/ayodejiolalekan/.gradle/caches/8.10.2/transforms/62c960497cb38e4c0f13683634b97a03/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"

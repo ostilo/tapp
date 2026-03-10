@@ -144,6 +144,15 @@ If you want to demonstrate reuse:
 ---
 
 ## 6. Quick links
+- **Demo APK (arm64‑v8a release, shrunk)**: [`docs/demo.apk`](./docs/demo.apk)  
+  Install with:
+
+  ```bash
+  adb install docs/demo.apk
+  ```
+
+  Or copy it to a device/emulator and open it.
+
 - Screenshots: [`screenshots/frame1.png`](./screenshots/frame1.png),
   [`screenshots/frame2.png`](./screenshots/frame2.png)
 
