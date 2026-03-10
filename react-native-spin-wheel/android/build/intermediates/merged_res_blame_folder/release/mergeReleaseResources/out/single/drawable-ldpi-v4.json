@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.tapp.spinwheel.rn.react-native-spin-wheel-release-25:/drawable-ldpi-v4/ic_call_answer_low.png",
+        "source": "com.tapp.spinwheel.rn.react-native-spin-wheel-core-1.12.0-0:/drawable-ldpi-v4/ic_call_answer_low.png"
+    },
+    {
+        "merged": "com.tapp.spinwheel.rn.react-native-spin-wheel-release-25:/drawable-ldpi-v4/ic_call_answer.png",
+        "source": "com.tapp.spinwheel.rn.react-native-spin-wheel-core-1.12.0-0:/drawable-ldpi-v4/ic_call_answer.png"
+    },
+    {
+        "merged": "com.tapp.spinwheel.rn.react-native-spin-wheel-release-25:/drawable-ldpi-v4/ic_call_answer_video.png",
+        "source": "com.tapp.spinwheel.rn.react-native-spin-wheel-core-1.12.0-0:/drawable-ldpi-v4/ic_call_answer_video.png"
+    },
+    {
+        "merged": "com.tapp.spinwheel.rn.react-native-spin-wheel-release-25:/drawable-ldpi-v4/ic_call_decline_low.png",
+        "source": "com.tapp.spinwheel.rn.react-native-spin-wheel-core-1.12.0-0:/drawable-ldpi-v4/ic_call_decline_low.png"
+    },
+    {
+        "merged": "com.tapp.spinwheel.rn.react-native-spin-wheel-release-25:/drawable-ldpi-v4/ic_call_answer_video_low.png",
+        "source": "com.tapp.spinwheel.rn.react-native-spin-wheel-core-1.12.0-0:/drawable-ldpi-v4/ic_call_answer_video_low.png"
+    },
+    {
+        "merged": "com.tapp.spinwheel.rn.react-native-spin-wheel-release-25:/drawable-ldpi-v4/ic_call_decline.png",
+        "source": "com.tapp.spinwheel.rn.react-native-spin-wheel-core-1.12.0-0:/drawable-ldpi-v4/ic_call_decline.png"
+    }
+]

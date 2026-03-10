@@ -4,13 +4,12 @@ Short, practical steps for cloning the repo, building the Kotlin library, packin
 React Native wrapper, and running the demo app.
 ---
 
-## 1. Clone the repo
+## 1.. Clone the repo
 
 ```bash
 git clone <this-repo-url> tapp
 cd tapp
 ```
-
 ---
 
 ## 2. Build the Kotlin library (`android-widget`)

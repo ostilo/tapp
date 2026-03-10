@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.tapp.spinwheel.rn.react-native-spin-wheel-release-25:/xml/spin_wheel_widget_info.xml",
+        "source": "com.tapp.spinwheel.rn.react-native-spin-wheel-release-21:/xml/spin_wheel_widget_info.xml"
+    },
+    {
+        "merged": "com.tapp.spinwheel.rn.react-native-spin-wheel-release-25:/xml/rn_dev_preferences.xml",
+        "source": "com.tapp.spinwheel.rn.react-native-spin-wheel-react-android-0.76.0-release-8:/xml/rn_dev_preferences.xml"
+    }
+]

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/widget_root"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:gravity="center_horizontal"
+    android:padding="@dimen/widget_spin_padding"
+    android:background="@drawable/widget_spin_wheel_bg">
+
+    <ImageView
+        android:id="@+id/widget_icon"
+        android:layout_width="@dimen/widget_spin_icon_size"
+        android:layout_height="@dimen/widget_spin_icon_size"
+        android:src="@drawable/ic_launcher"
+        android:contentDescription="@string/widget_spin_title" />
+
+    <LinearLayout
+        android:gravity="center_vertical"
+        android:orientation="vertical"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_weight="1">
+
+        <TextView
+            android:id="@+id/widget_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/widget_spin_title_margin_top"
+            android:text="@string/widget_spin_title"
+            android:textColor="@color/widget_spin_title_color"
+            android:textSize="@dimen/widget_spin_title_text_size"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/widget_subtitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/widget_spin_subtitle_margin_top"
+            android:text="@string/widget_spin_subtitle"
+            android:textColor="@color/widget_spin_subtitle_color"
+            android:textSize="@dimen/widget_spin_subtitle_text_size"
+            android:background="@drawable/widget_spin_button_bg"
+            android:paddingHorizontal="@dimen/widget_spin_button_padding_horizontal"
+            android:paddingVertical="@dimen/widget_spin_button_padding_vertical" />
+    </LinearLayout>
+</LinearLayout>
+
