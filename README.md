@@ -17,9 +17,11 @@ Build a reusable **spin wheel UI** that:
 
 There is also:
 
-- **Demo APK** (recommended for reviewers): [`docs/demo.apk`](./docs/demo.apk)  
+- **Demo APK**: [`docs/demo.apk`](./docs/demo.apk)  
   - Built as a **release, ABI‑specific, shrunk** APK (Hermes + ProGuard + resource shrinking + ABI splits).  
   - Install with `adb install docs/demo.apk` or copy to a device and open it.
+- **React Native wrapper tarball**: `react-native-spin-wheel/react-native-spin-wheel-1.0.0.tgz`  
+  - Produced by running `npm run build && npm pack` inside [`react-native-spin-wheel/`](./react-native-spin-wheel/).
 - Screenshots: [`screenshots/frame1.png`](./screenshots/frame1.png),
   [`screenshots/frame2.png`](./screenshots/frame2.png)
 
