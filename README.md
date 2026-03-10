@@ -3,10 +3,6 @@
 This repository contains an interview implementation of a **config‑driven spin wheel UI
 component** written in Kotlin and exposed to React Native, plus a small demo app,
 homescreen widget, and packaging notes.
-
-Everything is kept intentionally clear and simple so a junior developer (or reviewer)
-can follow along without getting lost in build tooling.
-
 ---
 
 ## 1. Problem statement
@@ -21,7 +17,8 @@ Build a reusable **spin wheel UI** that:
 
 There is also:
 
-- Screenshots in `screenshots/frame1.png` and `screenshots/frame2.png`.
+- Screenshots: [`screenshots/frame1.png`](./screenshots/frame1.png),
+  [`screenshots/frame2.png`](./screenshots/frame2.png)
 
  The app will load the wheel config (requires network on first run; then works offline from cache). To build from source instead, see [§4](#4-how-to-build-and-run) and [`BUILD_AND_PACK.md`](./BUILD_AND_PACK.md).
 
@@ -77,7 +74,8 @@ The widget provider implementation lives in `android-widget` as
 `com.tapp.spinwheel.SpinWheelAppWidgetProvider`; the demo app just declares
 a manifest `<receiver>` pointing at that class.
 
--```<receiver
+```tsx
+<receiver
         android:name="com.tapp.spinwheel.SpinWheelAppWidgetProvider"
         android:exported="true"
         android:label="@string/widget_spin_title">

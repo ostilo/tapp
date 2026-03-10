@@ -141,10 +141,6 @@ If you want to demonstrate reuse:
    npx react-native start
    npx react-native run-android
    ```
-
-Remember: outside this monorepo, you still need to mirror the `:android-widget`
-Gradle setup or refactor the module to be fully standalone as mentioned above.
-
 ---
 
 ## 6. Quick links
